@@ -1,0 +1,370 @@
+2024-03-19 02:07:57,008 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.17, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+2024-03-19 02:07:57,012 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.2 by Microsoft
+2024-03-19 02:07:57,522 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/codespaces-jupyter/Minecraft-server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+2024-03-19 02:07:57,977 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(51)[m: No dependencies to load found. Skipping!
+2024-03-19 02:08:00,867 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2024-03-19 02:08:01,012 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2024-03-19 02:08:01,058 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+2024-03-19 02:08:01,100 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+2024-03-19 02:08:01,102 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+2024-03-19 02:08:01,745 [32mINFO [m [m[main][m [mterralith.createConfig(43)[m: No config file detected. Creating one...
+2024-03-19 02:08:01,755 [32mINFO [m [m[main][m [mterralith.getMode(17)[m: Overriding config for 'terrablender_compatibility': FALSE (Terrablender not installed)
+2024-03-19 02:08:01,756 [32mINFO [m [m[main][m [mterralith.createConfig(43)[m: No config file detected. Creating one...
+2024-03-19 02:08:01,758 [32mINFO [m [m[main][m [mterralith.getCursed(38)[m: Overriding config for 'cursed_skylands': NONE (Terrablender not installed)
+2024-03-19 02:08:05,607 [33mWARN [m [m[main][m [mmixin.warn(132)[m: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+2024-03-19 02:08:05,608 [33mWARN [m [m[main][m [mmixin.warn(132)[m: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+2024-03-19 02:08:11,668 [32mINFO [m [m[modloading-worker-0][m [mCollective.requestJSONFile(30)[m: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+2024-03-19 02:08:11,711 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:ender_step
+2024-03-19 02:08:11,713 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:ender_obscuris
+2024-03-19 02:08:11,720 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:dodge_master
+2024-03-19 02:08:11,739 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:precise_roll
+2024-03-19 02:08:11,747 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:shadow_step
+2024-03-19 02:08:11,765 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:bull_charge
+2024-03-19 02:08:11,769 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:demon_mark_passive
+2024-03-19 02:08:11,805 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:torment_passive
+2024-03-19 02:08:11,808 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:ruine_passive
+2024-03-19 02:08:11,813 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:lunar_echo_passive
+2024-03-19 02:08:11,814 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:satsujin_passive
+2024-03-19 02:08:11,815 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:charybdis
+2024-03-19 02:08:11,819 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:agony_plunge
+2024-03-19 02:08:11,823 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:true_berserk
+2024-03-19 02:08:11,829 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:plunder_perdition
+2024-03-19 02:08:11,831 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:sakura_state
+2024-03-19 02:08:11,841 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:ender_blast
+2024-03-19 02:08:11,845 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:ender_fusion
+2024-03-19 02:08:11,863 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:demonic_ascension
+2024-03-19 02:08:11,870 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:basic_attack
+2024-03-19 02:08:11,871 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:air_attack
+2024-03-19 02:08:11,871 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:roll
+2024-03-19 02:08:11,872 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:step
+2024-03-19 02:08:11,873 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:knockdown_wakeup
+2024-03-19 02:08:11,874 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:regierung
+2024-03-19 02:08:11,884 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:lunar_eclipse
+2024-03-19 02:08:11,894 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:guard
+2024-03-19 02:08:11,896 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:counter_attack
+2024-03-19 02:08:11,896 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:parrying
+2024-03-19 02:08:11,902 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:perfect_bulwark
+2024-03-19 02:08:11,904 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:vengeful_parry
+2024-03-19 02:08:11,907 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:arrow_tenacity
+2024-03-19 02:08:11,908 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:impact_guard
+2024-03-19 02:08:11,909 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:berserker
+2024-03-19 02:08:11,910 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:death_harvest
+2024-03-19 02:08:11,910 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:pain_anticipation
+2024-03-19 02:08:11,912 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:latent_retribution
+2024-03-19 02:08:11,915 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:vampirize
+2024-03-19 02:08:11,911 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:emergency_escape
+2024-03-19 02:08:11,921 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:endurance
+2024-03-19 02:08:11,922 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:forbidden_strength
+2024-03-19 02:08:11,921 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:critical_knowledge
+2024-03-19 02:08:11,923 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:hypervitality
+2024-03-19 02:08:11,924 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:stamina_pillager
+2024-03-19 02:08:11,924 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:heart_shield
+2024-03-19 02:08:11,925 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:swordmaster
+2024-03-19 02:08:11,928 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:technician
+2024-03-19 02:08:11,929 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:sweeping_edge
+2024-03-19 02:08:11,930 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:dancing_edge
+2024-03-19 02:08:11,930 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:mindset
+2024-03-19 02:08:11,931 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:adrenaline
+2024-03-19 02:08:11,936 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:the_guillotine
+2024-03-19 02:08:11,948 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:grasping_spire
+2024-03-19 02:08:11,948 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:dancing_blade
+2024-03-19 02:08:11,949 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:heartpiercer
+2024-03-19 02:08:11,950 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:steel_whirlwind
+2024-03-19 02:08:11,951 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill wom:meditation
+2024-03-19 02:08:11,951 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:battojutsu
+2024-03-19 02:08:11,952 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:battojutsu_passive
+2024-03-19 02:08:11,955 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:rushing_tempo
+2024-03-19 02:08:11,956 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:relentless_combo
+2024-03-19 02:08:11,957 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:liechtenauer
+2024-03-19 02:08:11,964 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:sharp_stab
+2024-03-19 02:08:11,973 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:eviscerate
+2024-03-19 02:08:12,017 [32mINFO [m [m[modloading-worker-0][m [mCollective.init(11)[m: Loading Collective version 7.7.
+2024-03-19 02:08:12,046 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:blade_rush
+2024-03-19 02:08:12,048 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:wrathful_lighting
+2024-03-19 02:08:12,049 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:tsunami
+2024-03-19 02:08:12,062 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:everlasting_allegiance
+2024-03-19 02:08:12,075 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:meteor_slam
+2024-03-19 02:08:12,087 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:revelation
+2024-03-19 02:08:12,092 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:demolition_leap
+2024-03-19 02:08:12,107 [32mINFO [m [m[modloading-worker-0][m [mepicfight.register(79)[m: register skill epicfight:phantom_ascent
+2024-03-19 02:08:12,383 [32mINFO [m [m[modloading-worker-0][m [mterralith.<init>(32)[m: Terrablender not detected
+2024-03-19 02:08:12,401 [32mINFO [m [m[modloading-worker-0][m [mterralith.init(24)[m: Datapack registered with CristelLib
+2024-03-19 02:08:12,420 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(141)[m: Forge mod loading, version 40.2.17, for MC 1.18.2 with MCP 20220404.173914
+2024-03-19 02:08:12,421 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.2.17 Initialized
+2024-03-19 02:08:12,638 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
+2024-03-19 02:08:13,326 [32mINFO [m [m[modloading-worker-0][m [mCristel Lib.dumpDirect(134)[m: dumping Runtime Pack's assets and data
+2024-03-19 02:08:14,630 [1;31mERROR[m [m[main][m [mc.f.d.a.r.l.p.JsonRegistryResourceLoader.logError(246)[m: Error whilst loading type "Family" with name "dtterralith:moonlight": [common_leaves] Could not find LeavesProperties for registry name 'dtterralith:moonlight_spruce'.
+2024-03-19 02:08:16,149 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `betteroceanmonuments` for name `ocean_monument`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+2024-03-19 02:08:16,149 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+2024-03-19 02:08:17,731 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+2024-03-19 02:08:17,733 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+2024-03-19 02:08:17,734 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+2024-03-19 02:08:17,734 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+2024-03-19 02:08:17,918 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+2024-03-19 02:08:17,919 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+2024-03-19 02:08:17,920 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+2024-03-19 02:08:17,920 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+2024-03-19 02:08:17,925 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+2024-03-19 02:08:17,930 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+2024-03-19 02:08:17,931 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+2024-03-19 02:08:17,931 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+2024-03-19 02:08:17,980 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/agony_walk
+2024-03-19 02:08:17,986 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/agony_walk
+2024-03-19 02:08:18,384 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+2024-03-19 02:08:18,385 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+2024-03-19 02:08:18,386 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+2024-03-19 02:08:18,386 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+2024-03-19 02:08:18,418 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
+2024-03-19 02:08:18,419 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
+2024-03-19 02:08:18,419 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
+2024-03-19 02:08:18,423 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_walk
+2024-03-19 02:08:18,423 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_walk
+2024-03-19 02:08:18,426 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_run
+2024-03-19 02:08:18,426 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_run
+2024-03-19 02:08:18,728 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/herrscher_guard
+2024-03-19 02:08:18,728 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/herrscher_guard
+2024-03-19 02:08:18,731 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_hit
+2024-03-19 02:08:18,731 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_hit
+2024-03-19 02:08:18,734 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_parry
+2024-03-19 02:08:18,734 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_parry
+2024-03-19 02:08:18,789 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+2024-03-19 02:08:18,790 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+2024-03-19 02:08:18,790 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+2024-03-19 02:08:18,790 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+2024-03-19 02:08:18,795 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+2024-03-19 02:08:18,795 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+2024-03-19 02:08:18,795 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+2024-03-19 02:08:18,796 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+2024-03-19 02:08:18,800 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+2024-03-19 02:08:18,800 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+2024-03-19 02:08:18,800 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+2024-03-19 02:08:18,801 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+2024-03-19 02:08:18,870 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+2024-03-19 02:08:18,871 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+2024-03-19 02:08:18,871 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+2024-03-19 02:08:18,871 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+2024-03-19 02:08:18,875 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+2024-03-19 02:08:18,876 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+2024-03-19 02:08:18,876 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+2024-03-19 02:08:18,878 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+2024-03-19 02:08:18,885 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+2024-03-19 02:08:18,885 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+2024-03-19 02:08:18,886 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+2024-03-19 02:08:18,886 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+2024-03-19 02:08:18,893 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+2024-03-19 02:08:18,894 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+2024-03-19 02:08:18,895 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+2024-03-19 02:08:18,895 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+2024-03-19 02:08:18,974 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+2024-03-19 02:08:18,987 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+2024-03-19 02:08:18,987 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+2024-03-19 02:08:18,987 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+2024-03-19 02:08:18,991 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+2024-03-19 02:08:18,992 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+2024-03-19 02:08:18,992 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+2024-03-19 02:08:18,993 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+2024-03-19 02:08:18,999 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+2024-03-19 02:08:19,002 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+2024-03-19 02:08:19,004 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+2024-03-19 02:08:19,004 [33mWARN [m [m[modloading-worker-0][m [mepicfight.loadStaticAnimation(355)[m: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+2024-03-19 02:08:22,322 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2024-03-19 02:08:23,798 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/codespaces-jupyter/Minecraft-server/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23100!/assets/.mcassetsroot' uses unexpected schema
+2024-03-19 02:08:23,800 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/codespaces-jupyter/Minecraft-server/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23100!/data/.mcassetsroot' uses unexpected schema
+2024-03-19 02:08:30,703 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-03-19 02:08:30,723 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-03-19 02:08:30,733 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-03-19 02:08:30,736 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-03-19 02:08:30,740 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-03-19 02:08:30,748 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, aim] and [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-03-19 02:08:30,753 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mahousummon, wepproj, stack, pos, proj_speed, acc, aim] and [mahousummon, wepproj, stack, pos, proj_speed, acc, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-03-19 02:08:30,760 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-03-19 02:08:39,929 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,930 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,941 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,946 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,947 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,952 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,965 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,976 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+2024-03-19 02:08:39,995 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,000 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 7 recipes
+2024-03-19 02:08:40,026 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,028 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,031 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,033 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,036 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,056 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,061 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,101 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+2024-03-19 02:08:40,108 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+2024-03-19 02:08:41,862 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsMobs.apply(213)[m: Beginning loading of data for data loader: ancient/mob_ancient_data
+2024-03-19 02:08:41,862 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsMobs.apply(216)[m: Data loader for ancient/mob_ancient_data loaded 1 finalized objects
+2024-03-19 02:08:41,941 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: summon
+2024-03-19 02:08:41,942 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for summon loaded 8 jsons
+2024-03-19 02:08:41,943 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: material/weapon
+2024-03-19 02:08:41,943 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for material/weapon loaded 0 jsons
+2024-03-19 02:08:41,944 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: material/armor
+2024-03-19 02:08:41,945 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for material/armor loaded 2 jsons
+2024-03-19 02:08:41,946 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: gearconfig/melee
+2024-03-19 02:08:41,946 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for gearconfig/melee loaded 0 jsons
+2024-03-19 02:08:41,946 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: gearconfig/armor
+2024-03-19 02:08:41,948 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for gearconfig/armor loaded 15 jsons
+2024-03-19 02:08:41,950 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: gearconfig/bow
+2024-03-19 02:08:41,950 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for gearconfig/bow loaded 0 jsons
+2024-03-19 02:08:41,951 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(170)[m: Beginning loading of data for data loader: gearconfig/crossbow
+2024-03-19 02:08:41,951 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(172)[m: Data loader for gearconfig/crossbow loaded 0 jsons
+2024-03-19 02:08:41,953 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(213)[m: Beginning loading of data for data loader: elite_mob
+2024-03-19 02:08:41,954 [32mINFO [m [m[Worker-Main-4][m [mc.i.d.DungeonsLibraries.apply(216)[m: Data loader for elite_mob loaded 6 finalized objects
+2024-03-19 02:08:42,005 [1;31mERROR[m [m[Worker-Main-4][m [mc.f.d.a.r.l.p.JsonRegistryResourceLoader.logError(246)[m: Error whilst loading type "Family" with name "dtterralith:moonlight": [common_leaves] Could not find LeavesProperties for registry name 'dtterralith:moonlight_spruce'.
+2024-03-19 02:08:42,520 [33mWARN [m [m[Worker-Main-4][m [mc.f.d.r.l.BiomePopulatorsResourceLoader.warnNoBiomesSelected(84)[m: Could not get any biomes from selector:
+{"name":"terralith:lush_desert"}
+2024-03-19 02:08:43,955 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(147)[m: Starting minecraft server version 1.18.2
+2024-03-19 02:08:43,956 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(152)[m: Loading properties
+2024-03-19 02:08:43,956 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(169)[m: Default game type: SURVIVAL
+2024-03-19 02:08:43,956 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1282)[m: Generating keypair
+2024-03-19 02:08:44,160 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(180)[m: Starting Minecraft server on *:25565
+2024-03-19 02:08:44,211 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
+2024-03-19 02:08:44,436 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(192)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-03-19 02:08:44,436 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(193)[m: The server will make no attempt to authenticate usernames. Beware.
+2024-03-19 02:08:44,436 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(194)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-03-19 02:08:44,437 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2024-03-19 02:08:44,744 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-146 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.2.17)
+2024-03-19 02:08:46,601 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2024-03-19 02:08:46,603 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2024-03-19 02:08:46,614 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2024-03-19 02:08:48,419 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.0.7
+2024-03-19 02:08:48,419 [32mINFO [m [m[Server thread][m [mc.g.j.s.SinglePlayerSleep.publish(36)[m: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.50
+2024-03-19 02:08:48,420 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Loading NametagEdit v4.5.23
+2024-03-19 02:08:48,436 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Loading LoginSecurity v3.2.0
+2024-03-19 02:08:48,440 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.0.7
+2024-03-19 02:08:53,570 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+2024-03-19 02:08:54,370 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(219)[m: Preparing level "world"
+2024-03-19 02:08:54,919 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(600)[m: Preparing start region for dimension minecraft:overworld
+2024-03-19 02:08:56,721 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:56,745 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:56,756 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:56,766 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:56,926 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:57,425 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:57,922 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:58,598 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:58,931 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:08:59,423 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:00,147 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:00,446 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:00,928 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-03-19 02:09:01,422 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-03-19 02:09:01,925 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-03-19 02:09:02,421 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 10%
+2024-03-19 02:09:02,922 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 12%
+2024-03-19 02:09:03,421 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 24%
+2024-03-19 02:09:03,922 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 24%
+2024-03-19 02:09:04,421 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 38%
+2024-03-19 02:09:04,941 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 54%
+2024-03-19 02:09:05,427 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 74%
+2024-03-19 02:09:06,763 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 11843 ms
+2024-03-19 02:09:06,946 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(600)[m: Preparing start region for dimension mahoutsukai:reality_marble
+2024-03-19 02:09:07,548 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:07,556 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:07,953 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:08,455 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:08,953 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:09,616 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-03-19 02:09:09,955 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-03-19 02:09:10,459 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 15%
+2024-03-19 02:09:10,953 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 72%
+2024-03-19 02:09:11,487 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 86%
+2024-03-19 02:09:12,656 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 88%
+2024-03-19 02:09:12,657 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 88%
+2024-03-19 02:09:12,718 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 5766 ms
+2024-03-19 02:09:12,726 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(600)[m: Preparing start region for dimension minecraft:the_end
+2024-03-19 02:09:13,299 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:13,305 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:13,727 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:14,227 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-03-19 02:09:14,727 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 30%
+2024-03-19 02:09:15,227 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 63%
+2024-03-19 02:09:15,482 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 2756 ms
+2024-03-19 02:09:15,487 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(600)[m: Preparing start region for dimension minecraft:the_nether
+2024-03-19 02:09:16,062 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:16,064 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:16,668 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:17,057 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:17,493 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:17,994 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-03-19 02:09:18,632 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-03-19 02:09:18,993 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 11%
+2024-03-19 02:09:19,493 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 22%
+2024-03-19 02:09:20,021 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 54%
+2024-03-19 02:09:20,503 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 5011 ms
+2024-03-19 02:09:20,528 [32mINFO [m [m[Server thread][m [mc.g.j.s.SinglePlayerSleep.publish(36)[m: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.50
+2024-03-19 02:09:20,585 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §a**************************************§r
+2024-03-19 02:09:20,592 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r Loading...
+2024-03-19 02:09:20,592 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r plugins/SinglePlayerSleep/config.yml
+2024-03-19 02:09:20,599 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: Checking for updates...
+2024-03-19 02:09:20,853 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+2024-03-19 02:09:20,857 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r * Version is up to date!
+2024-03-19 02:09:20,864 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r * Donate: https://ko-fi.com/joelgodofwar
+2024-03-19 02:09:20,865 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+2024-03-19 02:09:20,865 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r plugins/SinglePlayerSleep/permissions.yml
+2024-03-19 02:09:20,872 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r This server is running Mohist version 1.18.2-146 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+2024-03-19 02:09:20,873 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r vardebug=false debug=false in plugins/SinglePlayerSleep/config.yml
+2024-03-19 02:09:20,873 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r jarfilename=/workspaces/codespaces-jupyter/Minecraft-server/plugins/SinglePlayerSleep-1.13_2.13.50.jar
+2024-03-19 02:09:20,874 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §a**************************************§r
+2024-03-19 02:09:20,875 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §eSinglePlayerSleep v1.13_2.13.50§r is ENABLED - Loading took 341 ms.
+2024-03-19 02:09:20,876 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: §a**************************************§r
+2024-03-19 02:09:20,950 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Enabling NametagEdit v4.5.23
+2024-03-19 02:09:21,077 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Successfully loaded using bukkit version: v1_18_R1
+2024-03-19 02:09:21,205 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Enabling LoginSecurity v3.2.0
+2024-03-19 02:09:21,442 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Loading base translations from "en_us"
+2024-03-19 02:09:21,463 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Loading specified translations from "en_us"
+2024-03-19 02:09:21,968 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Registering commands...
+2024-03-19 02:09:22,034 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Registering listeners...
+2024-03-19 02:09:22,243 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Using 1.12+ map captcha renderer
+2024-03-19 02:09:22,280 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2024-03-19 02:09:22,311 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(223)[m: Done (28.081s)! For help, type "help"
+2024-03-19 02:09:22,387 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2024-03-19 02:09:22,390 [32mINFO [m [m[Server thread][m [mpatchouli.dataReloaded(11)[m: Sending reload packet to clients
+2024-03-19 02:09:22,655 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-03-19 02:09:22,659 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2024-03-19 02:09:22,660 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+2024-03-19 02:09:22,663 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+2024-03-19 02:09:22,665 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+2024-03-19 02:09:22,666 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2024-03-19 02:09:22,667 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-03-19 02:09:22,669 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.7[0;39m
+2024-03-19 02:09:22,670 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m301d078[0;39m
+2024-03-19 02:09:22,671 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+2024-03-19 02:09:22,672 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-03-19 02:09:44,294 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(345)[m: UUID of player DeadlyBeast479 is baa9889a-d03e-36e2-90bb-5403da00fd06
+2024-03-19 02:09:45,864 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@100e0612
+2024-03-19 02:09:46,628 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(335)[m: DeadlyBeast479[localhost/127.0.0.1:50748] logged in with entity id 993 at (-565.0173381632156, 62.0, -296.69999998807907)
+2024-03-19 02:09:53,497 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(345)[m: UUID of player garpy89 is d1723830-4a1e-3aec-937f-2a8f56211986
+2024-03-19 02:09:54,988 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cd1d239
+2024-03-19 02:09:55,044 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(335)[m: garpy89[localhost/127.0.0.1:37158] logged in with entity id 1011 at (-553.6262734782704, 63.41999998688698, 806.407041855607)
+2024-03-19 02:10:05,301 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(345)[m: UUID of player DtmSazp is 382f315c-2e21-31be-b27d-4da5d3fed2dc
+2024-03-19 02:10:05,334 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 10340ms or 206 ticks behind
+2024-03-19 02:10:06,875 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41c9848a
+2024-03-19 02:10:06,936 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(335)[m: DtmSazp[localhost/127.0.0.1:37170] logged in with entity id 1125 at (-1075.065278493805, 78.76636799395752, -302.30052379989075)
+2024-03-19 02:10:24,435 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(736)[m: Stopping server
+2024-03-19 02:10:24,440 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(748)[m: Saving players
+2024-03-19 02:10:24,487 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: DeadlyBeast479 lost connection: Server closed
+2024-03-19 02:10:24,505 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(650)[m: DeadlyBeast479 left the game.
+2024-03-19 02:10:24,508 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: garpy89 lost connection: Server closed
+2024-03-19 02:10:24,526 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(650)[m: garpy89 left the game.
+2024-03-19 02:10:24,527 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: DtmSazp lost connection: Server closed
+2024-03-19 02:10:24,545 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(650)[m: DtmSazp left the game.
+2024-03-19 02:10:24,646 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(754)[m: Saving worlds
+2024-03-19 02:10:31,839 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(672)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+2024-03-19 02:10:50,384 [1;31mERROR[m [m[Server console handler][m [mn.m.s.d.DedicatedServer.uncaughtException(14)[m: Caught previously unhandled exception :
+java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
+	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2540) ~[jline-reader-3.21.0.jar%2313!/:?]
+	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2526) ~[jline-reader-3.21.0.jar%2313!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:727) ~[jline-reader-3.21.0.jar%2313!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.21.0.jar%2313!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.18.2-40.2.17-universal.jar%23105!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102) ~[server-1.18.2-20220404.173914-srg.jar%23100!/:?]
+Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 6 more
